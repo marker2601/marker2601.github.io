@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JG monogram">
+  <rect width="64" height="64" rx="12" fill="#07110f"/>
+  <path d="M19 17v20c0 7 3 10 9 10 3 0 6-1 8-3V31h-8" fill="none" stroke="#f3f0e7" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M45 17 35 47" fill="none" stroke="#c9ff4a" stroke-width="5" stroke-linecap="square"/>
+</svg>
